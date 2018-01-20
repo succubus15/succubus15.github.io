@@ -1,0 +1,20 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: no-repeat;
+	background-image: url(../images/bg.jpg);
+	background-color: rgba(0,0,0,0.8);
+	background-position: center top;
+	background-attachment:;
+}
+.page_align{
+	background: rgba(255,255,255,0.4);
+	margin:auto;
+	height: 100%;
+	width: 1000px;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+
+}
